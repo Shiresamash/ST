@@ -1,4 +1,7 @@
 
 *.axf
 *.hex
+*.o
+*.d
+
 Listings
