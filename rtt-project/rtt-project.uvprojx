@@ -365,7 +365,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER,STM32F4XX</Define>
               <Undefine></Undefine>
-              <IncludePath>.\applications;.\drivers;.\rt-thread\include;.\STM32F4xx_hal\inc;.\CMSIS\Include;..\rtt-project;.\CMSIS\ST\STM32F4xx\Include;.\</IncludePath>
+              <IncludePath>.\applications;.\drivers;.\rt-thread\include;.\STM32F4xx_hal\inc;.\CMSIS\Include;..\rtt-project;.\CMSIS\ST\STM32F4xx\Include;.\;.\component\finsh;.\component\init</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
