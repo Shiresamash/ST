@@ -24,9 +24,9 @@ int main(void)
 
   while(1){
 		GPIO_SetBits(GPIOF,GPIO_Pin_9|GPIO_Pin_10);
-		Delay(0x7FFFFF);
+		Delay(0x7FFFFF/10);
 		GPIO_ResetBits(GPIOF,GPIO_Pin_9|GPIO_Pin_10);
-		Delay(0x7FFFFF);
+		Delay(0x7FFFFF/10);
 	
 	}
 }
