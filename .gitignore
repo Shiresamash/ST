@@ -3,5 +3,5 @@
 *.hex
 *.o
 *.d
-
+.vscode
 Listings

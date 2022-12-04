@@ -11,5 +11,3 @@
 |readmefigure|readme文档资源存放|
 |f407zgt6-raw|F4库函数裸机源码点灯程序|
 |f407-rtt-raw|rtthread原始移植点灯程序|
-
-test review
