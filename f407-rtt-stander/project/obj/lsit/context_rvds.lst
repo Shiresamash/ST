@@ -365,11 +365,11 @@ ARM Macro Assembler    Page 6
               FFFF0000 
               E000ED08 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=..\obj\obj\context_rvds.d -o..\obj\obj\context_rvds.o -IE:\ST\s
-t-project\f407-rtt-stander\project\RTE -IC:\myfile\MDK5\ARM\PACK\Keil\STM32F4xx
-_DFP\1.0.8\Device\Include -IC:\myfile\MDK5\ARM\CMSIS\Include --predefine="__UVI
-SION_VERSION SETA 514" --predefine="STM32F40_41xxx SETA 1" --list=..\obj\lsit\c
-ontext_rvds.lst ..\libcpu\context_rvds.S
+erwork --depend=.\obj\context_rvds.d -o.\obj\context_rvds.o -IE:\ST\st-project\
+f407-rtt-stander\project\RTE -IC:\myfile\MDK5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8
+\Device\Include -IC:\myfile\MDK5\ARM\CMSIS\Include --predefine="__UVISION_VERSI
+ON SETA 514" --predefine="STM32F40_41xxx SETA 1" --list=.\obj\lsit\context_rvds
+.lst ..\libcpu\context_rvds.S
 
 
 
